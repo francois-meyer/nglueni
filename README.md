@@ -18,7 +18,7 @@ NGLUEni is a collection of existing, publicly available Nguni datasets. Most of 
 | POS tagging         | MasakhaPOS    | ✓  | ✓  |    |    |  [Original dataset](https://github.com/masakhane-io/masakhane-pos) |
 |                     | NLAPOST       | ✓  | ✓  | ✓  | ✓  | [Original dataset](https://repo.sadilar.org/handle/20.500.12185/546) |
 | Classification      | MasakhaNEWS   | ✓  |    |    |    |  [Original dataset](https://github.com/masakhane-io/masakhane-news) |
-|                     | ANTC          | ✓  |    |    |    |   [Original dataset](https://github.com/uds-lsv/afro-maft/tree/main/dataset/ANTC) |      
+|                     | ANTC          |    | ✓  |    |    |   [Original dataset](https://github.com/uds-lsv/afro-maft/tree/main/dataset/ANTC) |      
 |                     | NCHLT Genre   | ✓  | ✓  | ✓  | ✓  | [NGLUEni standardised split](https://github.com/francois-meyer/nglueni/tree/main/standardised-data/nlu/nchlt-genre) |
 | Phrase chunk        | NCHLT PC      | ✓  | ✓  | ✓  | ✓  | [NGLUEni standardised split](https://github.com/francois-meyer/nglueni/tree/main/standardised-data/nlu/nchlt-pc)  |
 
